@@ -1,5 +1,5 @@
 ![MERN Stack Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/472729606_581130051296818_8279852809152024395_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=I-ncpxY0ty4Q7kNvgEopsAQ&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=ANmJq6NSssOpScUXVCN_Lrw&oh=00_AYBGD7CgxnFEGd7dFvAJwqrxhyk6Im9A7VAJT8iW1NXuLQ&oe=67878696)
-#### Hi there 👋, I am Md. Jahidun Muntaka Farabi
+#### Hi there 👋, I am Md Jahidun Muntaka Farabi
 #### MERN Stack Developer
 Highly motivated and results-oriented MERN Stack Developer with a proven ability to design, develop, and deploy robust and scalable web applications. Possessing strong analytical and problem-solving skills, I thrive in fast-paced environments and am eager to contribute to innovative projects.
 
