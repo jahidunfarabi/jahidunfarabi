@@ -3,7 +3,7 @@
 #### MERN Stack Developer
 Highly motivated and results-oriented MERN Stack Developer with a proven ability to design, develop, and deploy robust and scalable web applications. Possessing strong analytical and problem-solving skills, I thrive in fast-paced environments and am eager to contribute to innovative projects.
 
-Skills: REACT / JS / HTML / CSS / Java / C# / C++ 
+Skills: REACT / JS / HTML / CSS / Tailwind / Java / C# / C++ 
 
 - 🔭 I’m currently working on Front End Development  
 - 🌱 I’m currently learning Back End Development, Web Development,Graphics,Algorithm  
