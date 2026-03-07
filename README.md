@@ -1,9 +1,9 @@
 
 #### Hi there 👋, I am Md Jahidun Muntaka Farabi
-#### MERN Stack Developer
-Highly motivated and results-oriented MERN Stack Developer with a proven ability to design, develop, and deploy robust and scalable web applications. Possessing strong analytical and problem-solving skills, I thrive in fast-paced environments and am eager to contribute to innovative projects.
+#### MERN Stack Developer | PHP Developer
+Highly motivated and results-oriented MERN Stack & PHP  Developer with a proven ability to design, develop, and deploy robust and scalable web applications. Possessing strong analytical and problem-solving skills, I thrive in fast-paced environments and am eager to contribute to innovative projects.
 
-Skills: REACT JS / NODE JS / EXPRESS JS / HTML5 / CSS / Tailwind / Java / C# / C++  / MYSQL / MongoDB 
+Skills: REACT JS / NODE JS / EXPRESS JS / Laravel / HTML5 / CSS / Tailwind / OOP / PHP  / MYSQL / MongoDB 
 
 - 🔭 I’m currently working on Front End Development  
 - 🌱 I’m currently learning Back End Development, Web Development,Graphics,Algorithm  
