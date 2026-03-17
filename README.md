@@ -1,13 +1,25 @@
 
-#### Hi there 👋, I am Md Jahidun Muntaka Farabi
-#### MERN Stack Developer | PHP Developer
+#### Hi there, I am Md Jahidun Muntaka Farabi, currently in my final semester of the Bachelor of Science in Computer Science and Engineering at American International University-Bangladesh (AIUB).
+#### MERN Stack Developer 
+#### PHP Developer
 Highly motivated and results-oriented MERN Stack & PHP  Developer with a proven ability to design, develop, and deploy robust and scalable web applications. Possessing strong analytical and problem-solving skills, I thrive in fast-paced environments and am eager to contribute to innovative projects.
 
-Skills: REACT JS / NODE JS / EXPRESS JS / Laravel / HTML5 / CSS / Tailwind / OOP / PHP  / MYSQL / MongoDB 
+#### Skills:
+Frontend (Client-Side)
 
-- 🔭 I’m currently working on Front End Development  
-- 🌱 I’m currently learning Back End Development, Web Development,Graphics,Algorithm  
-- 🤔 I’m looking for help with Front End Based Technologies  
+Frameworks/Libraries: ReactJS, NextJS
+Styling & UI: CSS, Tailwind CSS, Bootstrap
+Markup: HTML5 
+
+Backend (Server-Side)
+
+Frameworks: Express.js (Node.js), Laravel
+Languages: PHP, JavaScript (used in Express/NextJS)
+Concepts: OOP (Object-Oriented Programming) 
+
+- 🔭 I’m currently working on Front End Development projects
+- 🌱 I’m currently learning Back End Development, UI/UX,,Graphics, Algorithm, and Data Structures
+- 🤔 I’m looking for help with full-stack based technologies  
 - 💬 Ask me about Front End Development  
 - 📫 How to reach me: jahidunmuntaka25@gmail.com 
 - 😄 Pronouns: He/Him 
