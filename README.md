@@ -31,10 +31,10 @@
       • UI/UX Principles
     </td>
     <td valign="top">
-      • Node.js / Express.js / NestJS<br/>
+      • Node.js<br/>
+      • Express.js / NestJS<br/>
       • PHP / Laravel<br/>
       • RESTful APIs<br/>
-      • OOP Concepts<br/>
       • Authentication (JWT/Auth)
     </td>
     <td valign="top">
