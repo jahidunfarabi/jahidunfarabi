@@ -31,7 +31,7 @@
       • UI/UX Principles
     </td>
     <td valign="top">
-      • Node.js / Express.js<br/>
+      • Node.js / Express.js / NestJS<br/>
       • PHP / Laravel<br/>
       • RESTful APIs<br/>
       • OOP Concepts<br/>
