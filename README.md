@@ -68,8 +68,10 @@
 </ul>
 
 ### 📊 GitHub Activity
-![Jahidun's Stats](https://github-readme-stats.vercel.app/api?username=jahidunfarabi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidunfarabi&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidunfarabi&show_icons=true&theme=radical" alt="Jahidun's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidunfarabi&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ### 📫 Where to find me
 <p>
