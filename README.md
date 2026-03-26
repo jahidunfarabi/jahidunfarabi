@@ -28,6 +28,11 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 ---
 
+https://streak-stats.demolab.com/?user=jahidunfarabi&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=jahidunfarabi&show_icons=true&theme=dark&hide_border=true
+
+---
+
 <div align="center">
 <sub>Open to collaborations and interesting projects</sub>
 </div>
