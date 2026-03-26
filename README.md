@@ -28,12 +28,6 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 ---
 
-### GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidunfarabi&theme=dark&hide_border=true&background=00000000&ring=0077B5&fire=0077B5&currStreakLabel=ffffff" height="140" />
-
----
-
 <div align="center">
-<sub>Open to collaborations and interesting projects · Coffee-powered ☕</sub>
+<sub>Open to collaborations and interesting projects</sub>
 </div>
