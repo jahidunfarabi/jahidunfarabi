@@ -34,7 +34,6 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 <img src="https://streak-stats.demolab.com/?user=jahidunfarabi&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jahidunfarabi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&rank_icon=github" height="150" alt="GitHub Stats" />
 
 </div>
 
