@@ -40,5 +40,5 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 ---
 
 <div align="center">
-<sub>Open to collaborations and interesting projects · </sub>
+<sub>Open to collaborations and interesting projects</sub>
 </div>
