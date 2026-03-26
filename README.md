@@ -28,12 +28,11 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jahidunfarabi&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidunfarabi&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 
 </div>
 
@@ -41,4 +40,6 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 <div align="center">
 <sub>Open to collaborations and interesting projects</sub>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
 </div>
