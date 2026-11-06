@@ -12,19 +12,19 @@
 
 ---
 
-I build fast, clean web applications — from pixel-perfect frontends to scalable backends. Recently, graduated from AIUB, working with the MERN stack and ASP Dot Net Projects now.
+I build fast, clean web applications - from pixel-perfect frontends to scalable backends. Recently, graduated from AIUB, working with the MERN stack and ASP Dot Net Projects now.
 
 ---
 
 ### Tech Stack
 
-**Frontend** — React, Next.js, Tailwind CSS, JavaScript (ES6+)
+**Frontend** - React, Next.js, Tailwind CSS, JavaScript (ES6+)
 
-**Backend** — Node.js, Express, NestJS, ASP Dot NET, PHP, Laravel
+**Backend** - Node.js, Express, NestJS, ASP Dot NET, PHP, Laravel
 
-**Database** — MongoDB, PostgreSQL, MySQL
+**Database** - MongoDB, PostgreSQL, MySQL
 
-**Tools** — Git, Postman, Vercel
+**Tools** - Git, Postman, Vercel
 
 ---
 
