@@ -2,7 +2,7 @@
 
 # Jahidun Muntaka Farabi
 
-**Fullstack Developer** · MERN Stack · PHP / Laravel · Final Year @ AIUB
+**Full stack Developer** · MERN Stack · ASP Dot Net · Final Year @ AIUB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidunmuntaka/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidunmuntaka25@gmail.com)
@@ -12,7 +12,7 @@
 
 ---
 
-I build fast, clean web applications — from pixel-perfect frontends to scalable backends. Currently in my final semester of CSE at AIUB, working with the MERN stack and Laravel daily.
+I build fast, clean web applications — from pixel-perfect frontends to scalable backends. Recently, graduated from AIUB, working with the MERN stack and ASP Dot Net Projects now.
 
 ---
 
@@ -20,7 +20,7 @@ I build fast, clean web applications — from pixel-perfect frontends to scalabl
 
 **Frontend** — React, Next.js, Tailwind CSS, JavaScript (ES6+)
 
-**Backend** — Node.js, Express, NestJS, PHP, Laravel
+**Backend** — Node.js, Express, NestJS, ASP Dot NET, PHP, Laravel
 
 **Database** — MongoDB, PostgreSQL, MySQL
 
