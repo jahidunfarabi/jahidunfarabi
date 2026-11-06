@@ -12,7 +12,7 @@
 
 ---
 
-I build fast, clean web applications - from pixel-perfect frontends to scalable backends. Recently, graduated from AIUB, working with the MERN stack and ASP Dot Net Projects now.
+I build fast, clean web applications - from pixel-perfect frontends to scalable backends. Recently, graduated from AIUB, working with MERN stack and ASP Dot Net Projects now. Feel free to connect!
 
 ---
 
